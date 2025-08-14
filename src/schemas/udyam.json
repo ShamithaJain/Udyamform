@@ -1,0 +1,114 @@
+{
+  "steps": [
+    {
+      "title": "Step 1: Aadhaar & PAN",
+      "fields": [
+        {
+          "id": "__EVENTTARGET",
+          "name": "__EVENTTARGET",
+          "label": "__EVENTTARGET",
+          "type": "hidden",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "__EVENTARGUMENT",
+          "name": "__EVENTARGUMENT",
+          "label": "__EVENTARGUMENT",
+          "type": "hidden",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "__VIEWSTATE",
+          "name": "__VIEWSTATE",
+          "label": "__VIEWSTATE",
+          "type": "hidden",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "__VIEWSTATEGENERATOR",
+          "name": "__VIEWSTATEGENERATOR",
+          "label": "__VIEWSTATEGENERATOR",
+          "type": "hidden",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "__VIEWSTATEENCRYPTED",
+          "name": "__VIEWSTATEENCRYPTED",
+          "label": "__VIEWSTATEENCRYPTED",
+          "type": "hidden",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "title": "Step 2: Enterprise Details",
+      "fields": [
+        {
+          "id": "__EVENTVALIDATION",
+          "name": "__EVENTVALIDATION",
+          "label": "__EVENTVALIDATION",
+          "type": "hidden",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "ctl00_ContentPlaceHolder1_txtadharno",
+          "name": "ctl00$ContentPlaceHolder1$txtadharno",
+          "label": "ctl00$ContentPlaceHolder1$txtadharno",
+          "type": "text",
+          "placeholder": "Your Aadhaar No",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "ctl00_ContentPlaceHolder1_txtownername",
+          "name": "ctl00$ContentPlaceHolder1$txtownername",
+          "label": "ctl00$ContentPlaceHolder1$txtownername",
+          "type": "text",
+          "placeholder": "Name as per Aadhaar",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "ctl00_ContentPlaceHolder1_chkDecarationA",
+          "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+          "label": "ctl00$ContentPlaceHolder1$chkDecarationA",
+          "type": "checkbox",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        },
+        {
+          "id": "ctl00_ContentPlaceHolder1_btnValidateAadhaar",
+          "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+          "label": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+          "type": "submit",
+          "placeholder": "",
+          "required": false,
+          "pattern": "",
+          "error": ""
+        }
+      ]
+    }
+  ]
+}
